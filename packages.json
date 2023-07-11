@@ -3,5 +3,10 @@
         "package": "finbif",
         "url": "https://github.com/luomus/finbif",
         "branch": "dev"
+    },
+    {
+        "package": "fgc",
+        "url": "https://github.com/luomus/finbif-geo-convert",
+        "branch": "dev"
     }
 ]
