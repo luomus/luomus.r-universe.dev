@@ -8,5 +8,10 @@
         "package": "fgc",
         "url": "https://github.com/luomus/finbif-geo-convert",
         "branch": "dev"
+    },
+    { 
+        "package": "f2g",
+        "url": "https://github.com/luomus/finbif2gbif",
+        "branch": "dev"
     }
 ]
