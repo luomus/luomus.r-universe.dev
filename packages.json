@@ -18,5 +18,11 @@
         "package": "fbi",
         "url": "https://github.com/luomus/fin-biodiv-indicators",
         "branch": "dev"
+    },
+    { 
+        "package": "haahka",
+        "url": "https://github.com/luomus/haahka",
+        "branch": "dev"
     }
+]
 ]
